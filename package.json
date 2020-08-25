@@ -1,8 +1,8 @@
 {
   "name": "churchmanagerproject-nest",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "version": "1.0.0",
+  "description": "application web",
+  "author": "Ricardo Tadeu Sperlongo",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
